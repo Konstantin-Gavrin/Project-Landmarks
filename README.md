@@ -90,7 +90,12 @@
 
 ## Установка и запуск
 
-........
+**Клонируйте репозиторий** 
 
+git clone https://github.com/Konstantin-Gavrin/Project-Landmarks.git
+
+**Установите необходимые библиотеки** 
+
+pip install -r requirements.txt
 
 
